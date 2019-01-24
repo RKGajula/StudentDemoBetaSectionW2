@@ -12,6 +12,7 @@ package student;
 public class Student {
 
     private String name;
+    private int studentId;
 
     /**
      * @return the name
@@ -26,8 +27,19 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
-    
-     
-    
+
+    /**
+     * @return the id
+     */
+    public int getId() {
+        return studentId;
+    }
+
+    /**
+     * @param id the id to set
+     */
+    public void setId(int studentId) {
+        this.studentId = studentId;
+    }
     
 }
