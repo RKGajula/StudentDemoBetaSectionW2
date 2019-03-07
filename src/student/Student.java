@@ -1,5 +1,5 @@
 /*
- * Ramya Krishna Gajula
+ * 
  * Student ID: 999999999
  * Syst date is 31 Jan 2019.
  */
@@ -7,7 +7,7 @@ package student;
 
 /**
  *
- * @author User
+ * @author none
  */
 public class Student {
 
